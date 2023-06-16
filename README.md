@@ -2,4 +2,4 @@
 
 <p>Mosquito was the last project of an online course which consisted in a game with a simple goal, which was killing the mosquito. This game was developed using html,css and javascript.</p>
 
-<img src = "C:\Users\João Nuno\Desktop\Desenvolvimento Web Completo (UDEMY)\Secção 8 - JavaScript\mosquito_game.png"
+![mosquito_game](https://github.com/JoaoNuno96/MosquitoGame/assets/129988575/d8a2027f-b416-47f3-90e9-5906d37ff982)
